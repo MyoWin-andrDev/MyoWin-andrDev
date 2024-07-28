@@ -33,6 +33,11 @@
 |-------------|--------|------|----------------|  
 |<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android SDK" alt="Android SDK" width="55" height="55" /><div> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Android Jetpack" alt="Android Jetpack" width="55" height="55"/></div> | 
 
+### Integrated Development Environments (IDEs)  
+| Visual Studio Code | IntelliJ IDEA | Android Studio |  
+|--------------------|---------------|----------------|  
+|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/></div>| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/></div> |
+
 
 ### Version Control  
 | Git |  
