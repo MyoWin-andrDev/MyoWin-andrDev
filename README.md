@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Phyo Hein</h1>
-<h3 align="center">Hello! I'm an Android developer with a passion for creating innovative applications. Although I don't have formal working experience in the industry, I've dedicated the past year to developing and updating my own projects using Java and Kotlin.</h3>
 
----
+```java
+import java.util.Arrays;
+import java.util.List;
 
-- 🌱 I’m currently learning **Jetpack Compose, Android Architecture Components**
+public class Profile {
+    private String aboutMe;
 
-- 💬 Ask me about **Java, Kotlin**
+    public Profile() {
+        this.name = "Myo Win"; // My full name
+        this.nickname = "Phyo Hein"; // My nickname
+        this.location = "Bangkok"; // My location
+        this.education = "Bachelor of Science in Physics, Diploma in Software Engineering"; // My education background
+        this.pronouns = "he/him"; // Adjusted pronouns
+        this.code = Arrays.asList("Java", "Kotlin"); // Updated programming languages
+        this.tools = Arrays.asList("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"); // Updated tools
+        this.challenge = "Hello! I'm an Android developer with a passion for creating innovative applications.
+                          Although I don't have formal working experience in the industry, I've dedicated the past year to developing and updating my own projects                             using Java and Kotlin."; // Updated challenge
+        this.currentlyLearning = Arrays.asList("Jetpack Compose", "Android Architecture Components"); // Added currently learning topics
+    }
+
+    // Getters
+    
+```
+
 
 
 <p align="left">
