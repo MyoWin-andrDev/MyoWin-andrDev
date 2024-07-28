@@ -61,9 +61,4 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=phyo-105438&show_icons=true&locale=en&theme=transparent" alt="phyo-105438" />  
 </p>
 
----
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
