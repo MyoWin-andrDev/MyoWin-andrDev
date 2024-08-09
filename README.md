@@ -69,9 +69,9 @@ public class Profile {
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
 
 ### Operating Systems  
-| Linux  | Ubuntu  | Debian  |  
-|--------|---------|---------|  
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/> |
+| Linux  | Ubuntu  | Debian  | CentOS |
+|--------|---------|---------|---------|  
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="Debian" alt="Debian" width="55" height="55"/> |
 
 </div>
 
