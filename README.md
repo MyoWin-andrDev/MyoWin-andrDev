@@ -58,7 +58,7 @@ public class Profile {
 |<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/></div>| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" title="Android Studio" alt="Android Studio" width="55" height="55"/></div> |
 
 
-### Version Control  
+### Version Control System
 | Git |  
 |-----|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |  
