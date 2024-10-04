@@ -14,10 +14,7 @@ public class Profile {
         this.education = "Bachelor of Science in Physics, Diploma in Software Engineering"; // My education background
         this.pronouns = "he/him"; // Adjusted pronouns
         this.code = Arrays.asList("Java", "Kotlin"); // Updated programming languages
-        this.tools = Arrays.asList("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"); // Updated tools
-        this.description = """Hello! I'm an Android developer with a passion for creating innovative applications.
-                            Although I don't have formal working experience in the industry,
-                            I've dedicated the past year to developing and updating my own projects"""                         
+        this.tools = Arrays.asList("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"); // Updated tools                   
         this.currentlyLearning = Arrays.asList("Jetpack Compose", "Android Architecture Components"); // Added currently learning topics
     }
 
