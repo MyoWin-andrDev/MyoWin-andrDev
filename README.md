@@ -11,7 +11,6 @@ public class Profile {
         this.name = "Myo Win"; // My full name
         this.nickname = "Phyo Hein"; // My nickname
         this.location = "Bangkok"; // My location
-        this.education = "Bachelor of Science in Physics, Diploma in Software Engineering"; // My education background
         this.pronouns = "he/him"; // Adjusted pronouns
         this.code = Arrays.asList("Java", "Kotlin"); // Updated programming languages
         this.tools = Arrays.asList("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"); // Updated tools                   
