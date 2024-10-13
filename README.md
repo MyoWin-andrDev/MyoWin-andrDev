@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phyo Hein</h1>
 
-<!--```java
+```java
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,7 +19,7 @@ public class Profile {
 
     // Getters
     
-``` -->
+```
 
 
 
