@@ -55,9 +55,9 @@ public class Profile {
 
 
 ### Version Control System
-| Git |  
-|-----|  
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |  
+| Git | GitHub | GitLab | GitLab |
+|-----|--------|--------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="Bitbucket" width="55" height="55"/> | 
 
 ### Databases  
 | MySQL |  Android Room  |  SQLite  |  Firebase  |
