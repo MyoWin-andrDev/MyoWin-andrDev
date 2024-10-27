@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Phyo Hein</h1>
 
-```java
-import java.util.Arrays;
-import java.util.List;
-
-public class Profile {
-    private String aboutMe;
-
-    public Profile() {
-        this.name = "Myo Win"; // My full name
-        this.nickname = "Phyo Hein"; // My nickname
-        this.location = "Bangkok"; // My location
-        this.pronouns = "he/him"; // Adjusted pronouns
-        this.code = Arrays.asList("Java", "Kotlin"); // Updated programming languages
-        this.tools = Arrays.asList("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"); // Updated tools                   
-        this.currentlyLearning = Arrays.asList("Jetpack Compose", "Android Architecture Components"); // Added currently learning topics
-    }
-
-    // Getters
-    
+```kotlin
+data class Profile(
+    val name: String = "Myo Win", // Full name
+    val nickname: String = "Phyo Hein", // Nickname
+    val location: String = "Bangkok", // Location
+    val pronouns: String = "he/him", // Pronouns
+    val code: List<String> = listOf("Java", "Kotlin"), // Programming languages
+    val tools: List<String> = listOf("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"), // Tools
+    val currentlyLearning: List<String> = listOf("Jetpack Compose", "Android Architecture Components") // Learning topics
+)
 ```
+## Achievements
+
+[![committers.top badge](https://user-badge.committers.top/thailand/MyoWin-andrDev.svg)](https://user-badge.committers.top/thailand/MyoWin-andrDev)
 
 
 
