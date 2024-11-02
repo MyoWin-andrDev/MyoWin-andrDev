@@ -11,9 +11,10 @@ data class Profile(
     val currentlyLearning: List<String> = listOf("Jetpack Compose", "Android Architecture Components") // Learning topics
 )
 ```
-## Achievements
+<!--## Achievements-->
 
 [![committers.top badge](https://user-badge.committers.top/thailand/MyoWin-andrDev.svg)](https://user-badge.committers.top/thailand/MyoWin-andrDev)
+[![](https://visitcount.itsvg.in/api?id=MyoWin-andrDev&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
