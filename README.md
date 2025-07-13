@@ -6,9 +6,9 @@ data class Profile(
     val nickname: String = "Phyo Hein", // Nickname
     val location: String = "Bangkok", // Location
     val pronouns: String = "he/him", // Pronouns
-    val code: List<String> = listOf("Java", "Kotlin"), // Programming languages
-    val tools: List<String> = listOf("Android SDK", "Jetpack Compose", "IntelliJ IDEA", "Android Studio"), // Tools
-    val currentlyLearning: List<String> = listOf("Jetpack Compose", "Android Architecture Components") // Learning topics
+    val code: List<String> = listOf("Java", "Kotlin", "Dart", "Swift"), // Programming languages
+    val tools: List<String> = listOf("Android SDK", "Jetpack Compose", "Postman", "IntelliJ IDEA", "Android Studio"), // Tools
+    val currentlyLearning: List<String> = listOf("Jetpack Compose", "Android Architecture Components", "Flutter") // Learning topics
 )
 ```
 <!--## Achievements-->
@@ -28,9 +28,9 @@ data class Profile(
 <div>
   
 ## Programming Languages:
-| JavaScript | Java | Kotlin |
-|----------|----------|----------|
-|   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> |
+| JavaScript | Java | Kotlin | Dart | Swift |
+|----------|----------|----------|----------|----------|
+|   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> |
 
 ### Frontend Technologies  
 | HTML | CSS | jQuery | Bootstrap | JavaScript |
