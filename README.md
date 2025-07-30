@@ -42,6 +42,11 @@ data class Profile(
 |-------------|------|--------|-----------------|  
 |<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android SDK" alt="Android SDK" width="55" height="55" /><div> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> |  <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Android Jetpack" alt="Android Jetpack" width="55" height="55"/></div> | 
 
+### Mobile Technologies  
+| Flutter |
+|---------|
+|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55" /><div> |
+
 ### Integrated Development Environments (IDEs)  
 | Visual Studio Code | IntelliJ IDEA | Android Studio |  
 |--------------------|---------------|----------------|  
